@@ -26,7 +26,7 @@ Windows Tools
 
   CMake is copyright 2000-2009 Kitware, Inc., Insight Software Consortium
   License is BSD-alike: http://www.cmake.org/cmake/project/license.html
-  Current version is 2.8.9.20121023-g2362b
+  Current version is 2.8.10.20121119-g7a8da
 
   This was built from source so that we have the option of using the ninja
   generator on Windows, for which we need at least CMake version 2.8.9.20120822.
